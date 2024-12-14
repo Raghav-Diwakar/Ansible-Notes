@@ -1,4 +1,3 @@
-Here’s a well-structured and professional Git README template based on your request:
 
 ---
 
@@ -44,33 +43,8 @@ ssh-copy-id -f "-o IdentityFile <PATH TO PEM FILE>" ubuntu@<INSTANCE-PUBLIC-IP>
 
 ---
 
-## Installation
 
-1. Step 1 for installing the project.
-2. Step 2 for installing the project.
-3. Step 3 for installation.
 
----
-
-## Usage
-
-Provide instructions and examples for using the project.
-
----
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new Pull Request.
-
----
-
-## License
-
-Include your license information here.
 
 ---
 
