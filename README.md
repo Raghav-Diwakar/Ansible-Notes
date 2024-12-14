@@ -1,12 +1,6 @@
 
 ---
 
-# Project Title
-
-A brief description of what this project does and its purpose.
-
----
-
 ## SSH Access Methods
 
 This repository contains methods to access the server via SSH.
