@@ -1,0 +1,14 @@
+---
+name: raghav
+age: 19
+boolle: True
+
+lllist:
+  - a
+  - b
+  - c
+
+dddict:
+  name:a
+  age:19
+
